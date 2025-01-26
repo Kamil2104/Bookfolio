@@ -5,7 +5,7 @@ import { View, Text } from 'react-native';
 export default function TabTwoScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Tab Two</Text>
+      <Text style={styles.title}> Books </Text>
       <View style={styles.separator} />
     </View>
   );
